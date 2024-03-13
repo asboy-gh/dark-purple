@@ -1,0 +1,17 @@
+{
+  "name" : "Dark Violet v2",
+  "description" : "Another attempt at a black and purple theme",
+  "authors" : [
+    {
+      "name" : "asboy Studios",
+      "id" : "null"
+    }
+  ],
+  "semanticColors" : {
+    ""
+  },
+  "plus": {
+    "version": 0,
+    "iconpack" : "rosiecord-plumpy"
+  }
+}
