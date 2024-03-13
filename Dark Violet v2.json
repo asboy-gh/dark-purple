@@ -7,8 +7,10 @@
       "id" : "null"
     }
   ],
-  "semanticColors" : {
-    ""
+  "background": {
+    "blur": "15",
+    "url": "https://i.ibb.co/qkFrrVY/Warp-2.jpg",
+    "alpha": "1"
   },
   "plus": {
     "version": 0,
