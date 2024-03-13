@@ -1,53 +1,52 @@
 {
-    "name": "Dark Violet",
-    "description": "A black and purple theme",
+    "name": "PurpAMOLED+",
+    "description": "AMOLED version of PurpDark with better icons",
     "authors": [
-       
         {
-            "name": "asboy Studios",
-            "id": "null"
-          
+            "name": "@vorlie",
+            "id": "614807913302851594"
         }
     ],
     "semanticColors": {
+            
         "HEADER_PRIMARY": [
-            "#000000"
+            "#9C3EBB"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#9C3EBB"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#FAEBFF"
         ],
         "TEXT_MUTED": [
-            "#b790fc"
+            "#6C4878"
+        ],
+        "TEXT_LINK": [
+            "#E69CFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#c3a1ff"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#9860f7"
+            "#9C3EBB"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#DF7FFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#6a49a3"
+            "#6C4878"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-           "#000000" 
+           "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#120C13"
         ],
         "BACKGROUND_TERTIARY": [
-            "#310b59"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#2f0e52"
+            "#1F1521"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -59,79 +58,68 @@
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#000000"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#9860f7"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#4b3870"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3d2b52"
+            "#1B0122"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#260d4f"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#733ecf"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#724db0"
+            "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#daaaf2"
+            "#A571B7"
         ],
-        "TEXT_LINK": [
-            "#9e66ff"
+        "TEXT_DANGER": [
+            "#FC0E61"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#000000"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#9C3EBB"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
         ]
     },
-    "rawColors":{
-
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
-        "PRIMARY_300": "#000000",
-        "PRIMARY_360": "#000000",  
-        "PRIMARY_400": "#000000",
+    "rawColors": {
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#A571B7",
+        "PRIMARY_400": "#A571B7",
+        "PRIMARY_500": "#A571B7",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
-        "BRAND_500": "#8f2ff5",
-        "PLUM_20": "#370d57",
-        "PLUM_22": "#370d57",
-        "PLUM_26": "#370d57"
-       
+
+        "BRAND_260": "#7F08A8",
+        "BRAND_360": "#7F08A8",
+        "BRAND_500": "#7F08A8",
+        "BRAND_560": "#F0C4FF",
+        "WHITE_500": "#F0C4FF",
+        "YELLOW_300": "#B569E0",
+        "GREEN_360": "#B569E0",
+        "RED_400": "#FC0E61"
     },
     "plus": {
         "version": 0,
-        "unreadBadgeColor": "#a565f7",
-        "mentionLineColor": "#a96df7",
-        "customOverlays": true,
-        "iconpack":"rosiecord-plumpy"
+        "iconpack" : "rosiecord-plumpy"
     },
     "spec": 2
 }
