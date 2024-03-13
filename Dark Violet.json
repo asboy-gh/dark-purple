@@ -11,13 +11,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#000000"
         ],
         "HEADER_SECONDARY": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
             "#b790fc"
@@ -29,19 +29,19 @@
             "#9860f7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#000000"
         ],
         "INTERACTIVE_MUTED": [
             "#6a49a3"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-           "#ffffff" 
+           "#000000" 
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#310b59"
@@ -50,13 +50,13 @@
             "#2f0e52"
         ],
         "BACKGROUND_FLOATING": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -105,21 +105,21 @@
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#ffffff"
+            "#000000"
         ]
     },
     "rawColors":{
 
-        "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#ffffff",
-        "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#ffffff",  
-        "PRIMARY_400": "#ffffff",
-        "PRIMARY_600": "#ffffff",
-        "PRIMARY_630": "#ffffff",
-        "PRIMARY_660": "#ffffff",
-        "PRIMARY_700": "#ffffff",
-        "PRIMARY_800": "#ffffff",
+        "PRIMARY_100": "#000000",
+        "PRIMARY_200": "#000000",
+        "PRIMARY_300": "#000000",
+        "PRIMARY_360": "#000000",  
+        "PRIMARY_400": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
         "BRAND_500": "#8f2ff5",
         "PLUM_20": "#370d57",
         "PLUM_22": "#370d57",
