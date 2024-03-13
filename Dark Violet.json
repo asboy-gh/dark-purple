@@ -14,10 +14,10 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#c3a1ff"
+            "#ffffff"
         ],
         "TEXT_NORMAL": [
-            "#e5d9fa"
+            "#000000"
         ],
         "TEXT_MUTED": [
             "#b790fc"
@@ -50,13 +50,13 @@
             "#2f0e52"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
