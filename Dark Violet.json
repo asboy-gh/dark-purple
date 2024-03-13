@@ -50,13 +50,13 @@
             "#2f0e52"
         ],
         "BACKGROUND_FLOATING": [
-            "#553c8060"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#331d59"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#391d6b"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -131,7 +131,7 @@
         "unreadBadgeColor": "#a565f7",
         "mentionLineColor": "#a96df7",
         "customOverlays": true,
-        "iconpack":"rosiecord-iconsax"
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
 }
